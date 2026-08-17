@@ -8,6 +8,10 @@ This repository serves as a centralized portfolio of source code, simulation scr
 * **File:** `PLC IA project report (1).pdf`
 * **Description:** Documentation detailing the design and ladder logic programming of an automated carwash system using a BOSCH REXROTH INDRAL20 PLC. Features include sequential operation management and a 75% water reclamation system.
 
+  https://github.com/user-attachments/assets/28a85f98-b369-4552-81cb-0756ff1d9980
+
+
+
 ### Autonomous Plant Watering Robot
 * **File:** `Final_Complete_Autonomous_Plant_Watering_Robot_Report[2].pdf` 
 * **Description:** Project report covering the integration of an ESP32 microcontroller, IR sensors, and a relay-switched 12V DC water pump to create an autonomous, line-following irrigation robot.
